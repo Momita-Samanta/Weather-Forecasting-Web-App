@@ -27,10 +27,7 @@ This web application provides users with real-time weather forecasts based on th
 
 ## Screenshots
 
-![Weather App Screenshot 1]
 ![Screenshot (571)](https://github.com/Momita-Samanta/Weather-Forecasting-Web-App/assets/110496757/49a61c9b-084b-43bc-9539-49f22cef9738)
-
-![Weather App Screenshot 2]
 
 ![Screenshot (570)](https://github.com/Momita-Samanta/Weather-Forecasting-Web-App/assets/110496757/7c314c30-11a4-4923-85c8-f0a9122aff59)
 
